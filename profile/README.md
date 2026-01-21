@@ -1,4 +1,5 @@
 # 📘 T-Nikki — A privacy-first journaling app for traders who value reflection over results
+#　“This project is archived / no longer actively maintained.”
 
 Welcome to **T-Nikki**, a minimalist journaling tool built for day traders who want to grow through reflection, not just numbers.
 
